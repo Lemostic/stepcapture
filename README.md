@@ -24,7 +24,7 @@
 1. 克隆本仓库：
 
 ```bash
- git clone https://github.com/your_username/StepCapture.git
+git clone https://github.com/your_username/StepCapture.git
 cd StepCapture
 ```
 
@@ -37,8 +37,6 @@ venv\Scripts\activate
 3. 安装依赖：
 
 ```bash
-复制
-编辑
 pip install -r requirements.txt
 ```
 4. 运行主程序：
