@@ -1,0 +1,14 @@
+# 日志级别：all（鼠标+键盘）、mouse（仅鼠标）、keyboard（仅键盘）
+log_level: all
+
+annotation:
+  circle:
+    radius: 30                # 圈注半径（像素）
+    thickness: 3              # 圈注线宽（像素）
+    color: "#FF0000"          # 圈注颜色 (HEX)
+  tooltip:
+    font_size: 14             # 注释文字大小 (px)
+    font_color: "#000000"     # 注释文字颜色
+    bg_color: "#FFFFE0"       # 气泡背景色
+    padding: 5                # 气泡内边距 (px)
+    border_radius: 4          # 气泡圆角 (px)

@@ -1,0 +1,7 @@
+PySimpleGUI>=5.0.8.3        # 高层封装 Tkinter/Qt/Wx 后端，布局灵活 :contentReference[oaicite:0]{index=0}
+pynput>=1.7.6              # 键盘鼠标事件监听 :contentReference[oaicite:1]{index=1}
+mss>=8.0.1                 # 高效截屏工具 :contentReference[oaicite:2]{index=2}
+Pillow>=9.4.0              # 图像处理（圈注、气泡） :contentReference[oaicite:3]{index=3}
+PyYAML>=6.0                # 配置文件解析 :contentReference[oaicite:4]{index=4}
+pytest>=7.0.0              # 单元测试（可选）
+pyinstaller>=5.10          # 打包为 exe（可选）
